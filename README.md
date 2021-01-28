@@ -9,7 +9,7 @@ This was created during my Full Stack Web Development Bootcamp ran by App Brewer
 - First start the app by using hyper.
 - navigate to the folder where the app is stored
 - type in node app.js or nodemon app.js if you have nodemon
-- In a google chrome browser tab go to localhost:3000
+- In a google chrome browser tab go to localhost:3000/articles
 
 - In a new tab in Hyper you will need to type in mongod then hit enter.
 - This will start the database so that you can Create, Edit, or Delete entries.
